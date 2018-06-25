@@ -7,5 +7,5 @@ def roll
   rand(1..6)
 end
 numbers [1,2,3,4,5,6]
-roll_numbers
+roll_numbers = numbers.sample
   
