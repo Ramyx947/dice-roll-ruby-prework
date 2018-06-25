@@ -6,6 +6,6 @@ def roll
   # code goes here
   rand(1..6)
 end
-roll_arr [1,2,3,4,5,6]
-def random_number
+numbers [1,2,3,4,5,6]
+roll_numbers
   
